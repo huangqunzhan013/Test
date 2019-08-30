@@ -1,3 +1,4 @@
 ﻿abcd
 啊啊啊
 add func1
+AAA
